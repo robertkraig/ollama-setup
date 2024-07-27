@@ -15,7 +15,7 @@ eval "\$(pyenv init -)"
 
 eval "\$(pyenv virtualenv-init -)"
 EOF
-		echo "Pyenv setup added to $ZSHRC"
+  echo "Pyenv setup added to $ZSHRC"
 else
-		echo "Pyenv setup already exists in $ZSHRC"
+  echo "Pyenv setup already exists in $ZSHRC"
 fi

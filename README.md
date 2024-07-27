@@ -6,3 +6,5 @@ run: `$ make all`
 
 run `$ make run`
 
+
+![It ran in 3 seconds](proof.png)
